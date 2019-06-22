@@ -6,7 +6,7 @@ address: "〒630-8577 奈良県奈良市二条町２丁目９−1"      # full s
 country: "jp"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "34.6916473,135.7883237"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "April 10, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "September 10, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "1-5 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-09-10      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-09-10         # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
@@ -135,7 +135,7 @@ To participate in the workshop, you need to ...
 
 TBD
 
-
+<p>
 Between each topic we will have a 15 minute break for fresh air and a stretch. We will be using the <a href="https://www.tidyverse.org/">tidyverse</a>, a modern, unified collection of R packages designed for data science. For a more in-depth coverage of many of the topics of the workshop, you may want to read <a href="http://r4ds.had.co.nz/"><em>R for Data Science</em></a> by Hadley Wickham and Garrett Grolemund.
 </p>
 
@@ -375,7 +375,7 @@ This code of conduct is an adaptation of the one used by the Software Carpentry 
 
 <h2 id="people">About the instructors 🍎 </h2>
 
-<a href="http://faculty.washington.edu/bmarwick/">Ben Marwick</a> is an Associate Professor of archaeology at the University of Washington. He studies Pleistocene archaeology in mainland Southeast Asia and Australia. He uses R in his day-to-day work and research publications, and has written extensively (including in <em><a href="http://www.nature.com/neuro/journal/v20/n6/full/nn.4550.html">Nature</a></em> and the <em><a href="https://link.springer.com/article/10.1007/s10816-015-9272-9">Journal of Archaeological Method and Theory</a></em>) on the importance of using code to improve the reproducibility of research in archaeology and elsewhere. Ben is the convener of the SAA Open Science Interest Group and maintains an annotated list of R packages useful for archeologists on <a href="https://github.com/benmarwick/ctv-archaeology/blob/master/README.md">GitHub</a>.
+<a href="http://faculty.washington.edu/bmarwick/">Ben Marwick</a> is an Associate Professor of archaeology at the University of Washington. He studies Pleistocene archaeology in mainland Southeast Asia and Australia. He uses R in his day-to-day work and research publications, and has written extensively (including in <em><a href="http://www.nature.com/neuro/journal/v20/n6/full/nn.4550.html">Nature</a></em> and the <em><a href="https://link.springer.com/article/10.1007/s10816-015-9272-9">Journal of Archaeological Method and Theory</a></em>) on the importance of using code to improve the reproducibility of research in archaeology and elsewhere. Ben is the convener of the <a href="https://osf.io/2dfhz/wiki/home/">SAA Open Science Interest Group</a> and maintains an annotated list of R packages useful for archeologists on <a href="https://github.com/benmarwick/ctv-archaeology/blob/master/README.md">GitHub</a>.
 <p>
 </p>
 <p>
