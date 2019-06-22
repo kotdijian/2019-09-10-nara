@@ -1,17 +1,17 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
                       # Be sure to update the Carpentry type in _config.yml as well.  
-venue: "Transparent and Open Archaeological Research Using R<br><h3>A Short Workshop at the Society of American Archaeology Annual Meeting, Albuquerque Convention Center</h3>"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "401 2nd St NW, Albuquerque, NM 87102"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
-country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
+venue: "Transparent and Open Archaeological Research Using R<br><h3>A Short Workshop at the Nara National Research Institute for Cultural Properties </h3>"        # brief name of host site without address (e.g., "Euphoric State University")
+address: "2-chōme-9-1 Nijōchō, Nara-shi, Nara-ken 630-8577, Japan"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+country: "jp"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "35.0873016,-106.6518842"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "April 10, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+latlng: "34.6916473,135.7883237"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+humandate: "Sept 10, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "1-5 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2019-04-10      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2019-04-10         # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: 2019-09-10      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2019-09-10         # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Ben Marwick (University of Washington)"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Matt Harris (AECOM)", "Liying Wang (University of Washington), Clemens Schmid (RGZM)"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: [ "Liying Wang (University of Washington)]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["bmarwick@uw.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -121,7 +121,7 @@ If you have problems or questions, please send us an email
 
 <h2 id="general">How to register</h2>
 
-To participate in the workshop, you need to <a href="https://www.saa.org/annual-meeting/registration-info">register for the SAA meeting</a>. While completing the registration steps on the SAA website, you need to browse for this workshop among the items listed on Wednesday, 10 April 2019. When you find it, click 'add' to select the workshop, then click 'proceed to checkout'. Registration for the meeting closes on <b>March 12, 2019</b>. The fees for the workshop are set by the SAA to cover the room hire, audiovisual equipment hire, and internet access for participants. All of the instructors are volunteers. 
+To participate in the workshop, you need to ...
 
 <hr/>
 
@@ -133,38 +133,9 @@ To participate in the workshop, you need to <a href="https://www.saa.org/annual-
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 .tg .tg-yw4l{vertical-align:top}
 </style>
-<table class="tg">
-  <tr>
-    <th class="tg-yw4l"><b>Start time</b></th>
-    <th class="tg-yw4l"><b>End time</b></th>
-    <th class="tg-yw4l"><b>Topic</b></th>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">1:00</td>
-    <td class="tg-yw4l">1:45</td>
-    <td class="tg-yw4l">Introduction to <a href="https://www.r-project.org/">R</a> and <a href="https://www.rstudio.com/">RStudio</a></td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">2:00</td>
-    <td class="tg-yw4l">2:45</td>
-    <td class="tg-yw4l">Writing with <a href="https://rmarkdown.rstudio.com/">RMarkdown</a></td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">3:00</td>
-    <td class="tg-yw4l">3:45</td>
-    <td class="tg-yw4l"><a href="https://git-scm.com/">Git</a> & <a href="https://github.com/">GitHub</a></td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">4:00</td>
-    <td class="tg-yw4l">4:45</td>
-    <td class="tg-yw4l">Data repositories & <a href="https://osf.io">Open Science Framework</a></td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">4:45</td>
-    <td class="tg-yw4l">5:00</td>
-    <td class="tg-yw4l"><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510">Good enough practices</a></td>
-  </tr>
-</table>
+
+TBD
+
 
 Between each topic we will have a 15 minute break for fresh air and a stretch. We will be using the <a href="https://www.tidyverse.org/">tidyverse</a>, a modern, unified collection of R packages designed for data science. For a more in-depth coverage of many of the topics of the workshop, you may want to read <a href="http://r4ds.had.co.nz/"><em>R for Data Science</em></a> by Hadley Wickham and Garrett Grolemund.
 </p>
@@ -173,53 +144,7 @@ Between each topic we will have a 15 minute break for fresh air and a stretch. W
 
 <h2 id="syllabus">Syllabus</h2>
 
-<div class="row">
-  <div class="col-md-6">
-    <h3 id="syllabus-r">R & RStudio</h3>
-    <ul>
-      <li>Introduction to R</li>
-      <li>Working in RStudio</li>
-      <li>Using functions</li>
-      <li>Getting unstuck</li>
-      <li>Getting help</li>
-    </ul>
-  </div>
-  <div class="col-md-6">
-    <h3 id="syllabus-r">Writing with RMarkdown</h3>
-    <ul>
-      <li>Writing text and code together</li>
-      <li>Reading in data from Excel sheets</li>
-      <li>Making publication-quality plots</li>
-      <li>Captions, cross-references and citations</li>
-      <li>Creating beautiful Word or PDF documents</li>
-    </ul>
-  </div>  
-</div>
-
-<div class="row">
-  <div class="col-md-6">
-    <h3 id="syllabus-git">Git & GitHub</h3>
-    <ul>
-      <li>Creating a repository</li>
-      <li>Recording changes to files: <code>add</code>, <code>commit</code>, ...</li>
-      <li>Viewing changes: <code>status</code>, <code>diff</code>, ...</li>
-      <li>Ignoring files</li>
-      <li>Working on the web: <code>clone</code>, <code>pull</code>, <code>push</code>, ...</li>
-      <li>Resolving conflicts</li>
-      <li>Using Git in R Studio</li>
-      <li>Open licenses</li>
-    </ul>
-  </div>
-  <div class="col-md-6">
-    <h3 id="syllabus-r">Data repositories & OSF</h3>
-    <ul>
-      <li>DOIs and metadata</li>
-      <li>Connecting GitHub to OSF</li>
-      <li>Snapshotting a version</li>
-      <li>Citing data repositories</li>
-    </ul>
-  </div>
-</div>
+TBD
 
 <hr />
 
@@ -452,14 +377,6 @@ This code of conduct is an adaptation of the one used by the Software Carpentry 
 <h2 id="people">About the instructors 🍎 </h2>
 
 <a href="http://faculty.washington.edu/bmarwick/">Ben Marwick</a> is an Associate Professor of archaeology at the University of Washington. He studies Pleistocene archaeology in mainland Southeast Asia and Australia. He uses R in his day-to-day work and research publications, and has written extensively (including in <em><a href="http://www.nature.com/neuro/journal/v20/n6/full/nn.4550.html">Nature</a></em> and the <em><a href="https://link.springer.com/article/10.1007/s10816-015-9272-9">Journal of Archaeological Method and Theory</a></em>) on the importance of using code to improve the reproducibility of research in archaeology and elsewhere. Ben is the convener of the SAA Open Science Interest Group and maintains an annotated list of R packages useful for archeologists on <a href="https://github.com/benmarwick/ctv-archaeology/blob/master/README.md">GitHub</a>.
-<p>
-</p>
-<a href="https://matthewdharris.com/">Matt Harris</a> is the Director of GIS,
-Data Analysis, & Geoarchaeology in the Cultural Resources Deptartment of AECOM. He is an advanced R user, with a focus on spatial analysis and simulation. He documents many of his explorations using R on his <a href="https://matthewdharris.com/">blog</a>. Matt is a member of the SAA Open Science Interest Group, and has previously instructed R to archaeologists via the SAA Online workshops and in person.
-<p>
-</p>
-<p>
-<a href="https://www.nevrome.de/">Clemens Schmid</a> is an early career archaeologist from Germany. He currently works in a research project about the archaeological site of Olympia (Greece) at the Römisch-Germanisches Zentralmuseum (RGZM) in Mainz. Clemens is an avid R developer and a founding member of the <a href="https://isaakiel.github.io/">ISAAKiel</a> working group. He developed several <a href="https://github.com/nevrome">R Packages, RStudio Addins and R Shiny Webapps</a> and conducted multiple workshops about R for archaeologists.
 <p>
 </p>
 <p>
