@@ -227,7 +227,7 @@ Between each topic we will have a short break for fresh air and a stretch. We wi
   <tr>
     <td class="tg-yw4l">13:30</td>
     <td class="tg-yw4l">14:30</td>
-    <td class="tg-yw4l"> Writing the `paper.Rmd`: code chunks and controlling their output, inline R code </td>
+    <td class="tg-yw4l"> Writing the `paper.Rmd`: code chunks and controlling their output, inline R code, discuss templates provided by the <a href="https://github.com/rstudio/rticles">rticles<a/> package </td>
    </tr>
   <tr>
     <td class="tg-yw4l">14:30</td>
