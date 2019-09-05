@@ -227,8 +227,8 @@ Between each topic we will have a short break for fresh air and a stretch. We wi
   <tr>
     <td class="tg-yw4l">13:30</td>
     <td class="tg-yw4l">14:30</td>
-    <td class="tg-yw4l"> Writing the `paper.Rmd`: code chunks and controlling their output, inline R code, discuss templates provided by the <a href="https://github.com/rstudio/rticles">rticles<a/>/ ackage </td>
-   </tr>
+    <td class="tg-yw4l"> Writing the `paper.Rmd`: code chunks and controlling their output, inline R code, discuss templates provided by the <a href="https://github.com/rstudio/rticles">rticles</a> package </td>
+  </tr>
   <tr>
     <td class="tg-yw4l">14:30</td>
     <td class="tg-yw4l">15:00</td>
@@ -242,7 +242,7 @@ Between each topic we will have a short break for fresh air and a stretch. We wi
   <tr>
     <td class="tg-yw4l">15:30</td>
     <td class="tg-yw4l">16:00</td>
-    <td class="tg-yw4l"> Archiving our research compendium with a DOI at the <a href="https://osf.io/">Open Science Framework,</a> discussion of the <a href="https://github.com/CenterForOpenScience/osfr">osfr R pkg</a> to manage large files</td>
+    <td class="tg-yw4l"> Archiving our research compendium with a DOI at the <a href="https://osf.io/">Open Science Framework,</a> discussion of the <a href="https://github.com/CenterForOpenScience/osfr">osfr R pkg</a> to manage large files </td>
   </tr>
 </table>
 
