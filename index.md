@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
                       # Be sure to update the Carpentry type in _config.yml as well.  
-venue: "Transparent and Open Archaeological Research Using R<br><h3>A Short Workshop at the Nara National Research Institute for Cultural Properties, Japan</h3>"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "Transparent and Open Archaeological Research Using R & Git<br><h3>Two Short Workshops at the Nara National Research Institute for Cultural Properties, Japan</h3>"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "〒630-8577 奈良県奈良市二条町２丁目９−1"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "jp"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
