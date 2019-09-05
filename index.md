@@ -237,7 +237,7 @@ Between each topic we will have a short break for fresh air and a stretch. We wi
   <tr>
     <td class="tg-yw4l">15:00</td>
     <td class="tg-yw4l">15:30</td>
-    <td class="tg-yw4l"> Containserisation and continuous integration using <a href="https://mybinder.org/">Binder</a>, <a href="https://ropenscilabs.github.io/r-docker-tutorial/01-what-and-why.html">Docker</a>, and Travis </td>
+    <td class="tg-yw4l"> Containerisation and continuous integration using <a href="https://mybinder.org/">Binder</a>, <a href="https://ropenscilabs.github.io/r-docker-tutorial/01-what-and-why.html">Docker</a>, and Travis </td>
   </tr>
   <tr>
     <td class="tg-yw4l">15:30</td>
@@ -246,7 +246,8 @@ Between each topic we will have a short break for fresh air and a stretch. We wi
   </tr>
 </table>
 
-Between each topic we will have a short break for fresh air and a stretch. For a more in-depth coverage of many of the topics of the workshop, please refer to that text. Here are some further readings on writing reproducible research, and see our reading list below also : <ul>
+Between each topic we will have a short break for fresh air and a stretch. For a more in-depth coverage of many of the topics of the workshop, please refer to that text. Here are some further readings on writing reproducible research, and see our reading list below also: 
+<ul>
       <li><a href="https://journal.r-project.org/archive/2017/RJ-2017-065/RJ-2017-065.pdf">Boettiger, C., & Eddelbuettel, D. (2017). An introduction to rocker: Docker containers for R. The R Journal Vol. 9/2, December 2017</a></li>
       <li><a href="http://r-pkgs.had.co.nz/">Wickham, H. (2015). R packages: organize, test, document, and share your code. O'Reilly Media, Inc.</a></li>
       <li><a href="https://bookdown.org/yihui/rmarkdown/">Xie, Y., Allaire, J. J., & Grolemund, G. (2018). R markdown: The definitive guide. Chapman and Hall/CRC.</a></li>
