@@ -6,10 +6,10 @@ address: "〒630-8577 奈良県奈良市二条町２丁目９−1"      # full s
 country: "jp"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "34.6916473,135.7883237"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "September 10, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "1-5 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humandate: "September 10-11, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "10 am - 4 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-09-10      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2019-09-10         # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+enddate: 2019-09-11         # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Ben Marwick (University of Washington)"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Liying Wang (University of Washington)"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["bmarwick@uw.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
@@ -126,24 +126,139 @@ To participate in the workshop, you need to ...
 
 <h2 id="schedule">Schedule</h2>
 
+<h3>10 Sept 15:20-17:00 Git for Archaeological Science</h3>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 .tg .tg-yw4l{vertical-align:top}
 </style>
-
-TBD
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Start time</b></th>
+    <th class="tg-yw4l"><b>End time</b></th>
+    <th class="tg-yw4l"><b>Topic</b></th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">15:20</td>
+    <td class="tg-yw4l">15:35</td>
+    <td class="tg-yw4l">Lecture: Introduction to <a href="https://git-scm.com/">Git</a> and <a href="https://github.com">GitHub</a>. Define key concepts such as remote, local, commit, push, pull, pull request</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">15:35</td>
+    <td class="tg-yw4l">15:50</td>
+    <td class="tg-yw4l">Activity: Create a <a href="https://github.com">GitHub</a> account and follow some people</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">15:50</td>
+    <td class="tg-yw4l">16:10</td>
+    <td class="tg-yw4l">Activity: learn to fork, commit, and pull request on <a href="https://github.com">GitHub</a>. Add a new file, add text to that file. Look at commit history and blame view on GitHub </td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">16:10</td>
+    <td class="tg-yw4l">17:00</td>
+    <td class="tg-yw4l">Activity: learn to collaborate with Git & RStudio. Fork, clone, commit, identify and resolve merge conflicts</td>
+  </tr>
+</table>
 
 <p>
-Between each topic we will have a 15 minute break for fresh air and a stretch. We will be using the <a href="https://www.tidyverse.org/">tidyverse</a>, a modern, unified collection of R packages designed for data science. For a more in-depth coverage of many of the topics of the workshop, you may want to read <a href="http://r4ds.had.co.nz/"><em>R for Data Science</em></a> by Hadley Wickham and Garrett Grolemund.
+
+Between each topic we will have a short break for fresh air and a stretch. We will be using Jenny Bryan's <a href="https://happygitwithr.com">Happy Git with R</a> book as our guide and reference. For a more in-depth coverage of many of the topics of the workshop, please refer to that text. Here are some further readings on Git for science: 
+<ul>
+      <li><a href="https://swcarpentry.github.io/git-novice/">Software Carpentry lesson on Git</a></li>
+      <li><a href="https://www.earthdatascience.org/workshops/intro-version-control-git/">Earth Lab at CU Boulder lesson on Git</a></li>
+      <li><a href="https://nhm-stars.github.io/materials/day04/collab_gh_intro.html">Anna Krystalli's lesson on Collaborative Github in Rstudio</a></li>
+      <li><a href="https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-8-7">Ram, K. 2003. Git can facilitate greater reproducibility and increased transparency in science, Source Code for Biology and Medicine volume 8, Article number: 7</a></li>
+      <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4945047/">Perez-Riverol, Y et al. 2016 Ten Simple Rules for Taking Advantage of Git and GitHub. PLoS Comput Biol. 2016 Jul; 12(7): e1004947.</a></li>
+      <li><a href="http://blogs.nature.com/naturejobs/2018/06/11/git-the-reproducibility-tool-scientists-love-to-hate/">TechBlog: Git: The reproducibility tool scientists love to hate</a></li>
+    </ul>
+
+<p>
+<h3>11 Sept 10:00-16:00 Writing Reproducible Research with R and rrtools</h3>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Start time</b></th>
+    <th class="tg-yw4l"><b>End time</b></th>
+    <th class="tg-yw4l"><b>Topic</b></th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">10:00</td>
+    <td class="tg-yw4l">11:00</td>
+    <td class="tg-yw4l">Introduction to R and RStudio, including customising our .Rprofile file with <a href="https://usethis.r-lib.org/articles/articles/usethis-setup.html#store-default-values-for-description-fields-and-other-preferences">git config</a>  and <a href="https://usethis.r-lib.org/articles/articles/usethis-setup.html#get-and-store-a-github-personal-access-token">set our GitHub PAT</a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">11:00</td>
+    <td class="tg-yw4l">11:15</td>
+    <td class="tg-yw4l">Run `rrtools::use_compendium("pkgname")` and edit our DESCRIPTION file</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">11:15</td>
+    <td class="tg-yw4l">11:30</td>
+    <td class="tg-yw4l">Run `usethis::use_mit_license(name = "My Name")` and discuss license choices</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">11:30</td>
+    <td class="tg-yw4l">12:00</td>
+    <td class="tg-yw4l">Run `usethis::use_git()` then `usethis::use_github()` </td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">12:00</td>
+    <td class="tg-yw4l">12:15</td>
+    <td class="tg-yw4l">Run `rrtools::use_readme_rmd()` and discuss CONDUCT.md: a code of conduct for users, CONTRIBUTING.md: basic instructions for people who want to contribute to our compendium, and issue templates in GitHub repository settings</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">12:15</td>
+    <td class="tg-yw4l">12:30</td>
+    <td class="tg-yw4l">Run `rrtools::use_analysis()` and discuss `usethis::edit_git_ignore()`</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">12:30</td>
+    <td class="tg-yw4l">13:30</td>
+    <td class="tg-yw4l">Lunch 🍱 </td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">13:30</td>
+    <td class="tg-yw4l">14:30</td>
+    <td class="tg-yw4l"> Writing the `paper.Rmd`: code chunks and controlling their output, inline R code </td>
+   </tr>
+  <tr>
+    <td class="tg-yw4l">14:30</td>
+    <td class="tg-yw4l">15:00</td>
+    <td class="tg-yw4l"> Writing the `paper.Rmd`: figures, tables, captions, cross-refs, citations. Discuss references.bib, <a href="https://github.com/citation-style-language/">csl files</a>, <a href="https://www.zotero.org/">Zotero</a>, and updating the description with `rrtools::add_dependencies_to_description()` </td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">15:00</td>
+    <td class="tg-yw4l">15:30</td>
+    <td class="tg-yw4l"> Containserisation and continuous integration using <a href="https://mybinder.org/">Binder</a>, <a href="https://ropenscilabs.github.io/r-docker-tutorial/01-what-and-why.html">Docker</a>, and Travis </td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">15:30</td>
+    <td class="tg-yw4l">16:00</td>
+    <td class="tg-yw4l"> Archiving our research compendium with a DOI at the <a href="https://osf.io/">Open Science Framework,</a> discussion of the <a href="https://github.com/CenterForOpenScience/osfr">osfr R pkg</a> to manage large files</td>
+  </tr>
+</table>
+
+Between each topic we will have a short break for fresh air and a stretch. For a more in-depth coverage of many of the topics of the workshop, please refer to that text. Here are some further readings on writing reproducible research, and see our reading list below also : <ul>
+      <li><a href="https://journal.r-project.org/archive/2017/RJ-2017-065/RJ-2017-065.pdf">Boettiger, C., & Eddelbuettel, D. (2017). An introduction to rocker: Docker containers for R. The R Journal Vol. 9/2, December 2017</a></li>
+      <li><a href="http://r-pkgs.had.co.nz/">Wickham, H. (2015). R packages: organize, test, document, and share your code. O'Reilly Media, Inc.</a></li>
+      <li><a href="https://bookdown.org/yihui/rmarkdown/">Xie, Y., Allaire, J. J., & Grolemund, G. (2018). R markdown: The definitive guide. Chapman and Hall/CRC.</a></li>
+    </ul>
+
+<p>
+
+
 </p>
 
 <hr/>
 
-<h2 id="syllabus">Syllabus</h2>
-
-TBD
 
 <hr />
 
