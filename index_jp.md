@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
                       # Be sure to update the Carpentry type in _config.yml as well.  
-venue: "Transparent and Open Archaeological Research Using R & Git<br><h3>Two Short Workshops at the Nara National Research Institute for Cultural Properties, Japan</h3>"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "R言語を利用した透明性が高くオープンな考古学的研究　準備シート<br><h3>奈良文化財研究所（日本）における短期集中ワークショップ</h3>"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "〒630-8577 奈良県奈良市二条町２丁目９−1"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "jp"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
@@ -17,7 +17,7 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
-<h2 id="general">General Information</h2>
+<h2 id="general">概要</h2>
 
 {% comment %}
   INTRODUCTION
@@ -27,7 +27,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endcomment %}
 
 
-In recent years serious concerns about the reproducibility and transparency of research have arisen in many scientific disciplines. These concerns reveal a wide gap between scientific practice and scientific ideals, and threaten to erode public support for research. In this workshop we will provide hands-on training in robust techniques, tools and services (all free) to improve the reproducibility and transparency of archaeological research. Most of these tools relate to the R programming language, which is central to recent developments in social and natural sciences.
+　近年、科学の様々な分野において研究の再現性および透明性に関する深刻な懸念が生じています。これらの懸念により、科学的な実践と理想との間の大きな隔たりが明らかになっているだけでなく、研究に対する公的支援が減らされる可能性もあります。このワークショップでは、考古学研究における再現性と透明性を向上するための堅実な手法、ツール、サービス（すべて無料）の実地研修を実施します。これらのツールは、近年の社会・自然科学の発展の中心を担っているＲ言語というプログラミング言語に関連するものが大半を占めています。
 
 {% comment %}
   AUDIENCE
@@ -35,7 +35,7 @@ In recent years serious concerns about the reproducibility and transparency of r
   Explain who your audience is.  (In particular, tell readers if the
   workshop is only open to people from a particular institution.
 {% endcomment %}
-This workshop is suited to novices who have never used R before: <em>no</em> prior experience is necessary. The course is aimed at archaeologists doing research at all career stages.
+　このワークショップは、Ｒ言語を使用したことのない初心者を対象とします。これまでR言語を使用したことがない方でも問題ありません。また、対象は考古学研究者になりますが、研究者としてのキャリアのどの段階にいるかは問いません。
 <p>
 
 
